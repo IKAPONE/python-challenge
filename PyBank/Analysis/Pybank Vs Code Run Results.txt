@@ -1,0 +1,8 @@
+PS C:\Users\lord1\PythonCode\python-challenge\PyBank\Resources> & C:/Users/lord1/anaconda3/envs/dev/python.exe "c:/Users/lord1/PythonCode/python-challenge/PyBank/Resources/PybankChallenge as 12 July 2024.py"
+Financial Analysis
+--------------------------------
+Total Months: 86
+Total Net Profit/Losses: $22564198
+Average Change: $-8311.11
+Greatest Profit Increase : Aug-16 ($1862002)
+Greatest Profit Decrease : Dec-13 ($-1825558)
